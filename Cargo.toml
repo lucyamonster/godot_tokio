@@ -16,5 +16,5 @@ single-thread = ["tokio/rt"]
 multi-thread = ["tokio/rt-multi-thread"]
 
 [dependencies]
-godot = "0.4.5"
-tokio = "1.32.0"
+godot = "0.5.2"
+tokio = "1.52.3"
